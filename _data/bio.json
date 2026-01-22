@@ -2,14 +2,14 @@
   "basics": {
     "name": "Noah Asano",
     "label": "Student",
-    "picture": "https://github.com/SerialProgrammer808.png",
+    "picture": "https://github.com/noah-asano.png",
     "email": "asano47@hawaii.edu",
     "phone": "808-773-4157",
-    "website": "https://SerialProgrammer808.github.io",
+    "website": "https://noah-asano.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2027.",
     "location": { "address": "", "postalCode": "96826", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "SerialProgrammer808", "url": "https://github.com/SerialProgrammer" },
+      { "network": "github", "username": "noah-asano", "url": "https://github.com/noah-asano" },
       { "network": "linkedin", "username": "Noah Asano", "url": "https://www.linkedin.com/in/noah-asano-9b1a24328/" },
     ]
   },
