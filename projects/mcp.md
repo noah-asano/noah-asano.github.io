@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: noah-asano.github.io/img/51DBd7O6GEL.jpg
+image: https://noah-asano.github.io/img/51DBd7O6GEL.jpg
 title: "AI-Powered Project Knowledge Manager (Gemini Observatory)"
 date: 2025
 published: true
