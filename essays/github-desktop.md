@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "GitHub Desktop vs The Command Line"
 # All dates must be YYYY-MM-DD format!
-date: 2026-01-25
+date: 2026-02-02
 published: true
 labels:
 ---
