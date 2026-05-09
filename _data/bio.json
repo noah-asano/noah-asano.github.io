@@ -15,13 +15,12 @@
   },
   "interests": [
     { "name": "Artifical Intelligence" },
-    { "name": "Site Reliability" },
-    { "name": "Web Development" },
+    { "name": "Electronics" },
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Python" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "TypeScript", "Python", "React", "NextJS" ]
     },
     {
       "name": "Toolsets/OS",
@@ -60,6 +59,17 @@
       "summary": "",
       "highlights": [
         "Write unit tests in Rust for Holocron Security's RapidFactory application"
+      ]
+    },
+    {
+      "company": "IBM",
+      "position": "Software Engineering Intern",
+      "website": "https://ibm.com/",
+      "startDate": "2026-05-26",
+      "endDate": "2026-08-18",
+      "summary": "",
+      "highlights": [
+        "TBD"
       ]
     }
   ],
