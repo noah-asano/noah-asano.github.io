@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/studyviserlogo.png
 title: "Study-Viser"
 date: 2026
 published: true
