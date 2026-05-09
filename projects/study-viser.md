@@ -29,7 +29,7 @@ StudyViser is a collaborative academic platform designed to bridge the gap betwe
 - Configured the NeonDB database and deployed the application to Vercel
 - Created the UI for the landing page, contacts page, and courses page
 - Created end to end tests for the application using Playwright
-- Other contributions and source code viewable at [https://github.com/orgs/study-viser](url)
+- Other contributions and source code viewable at <a href="https://github.com/orgs/study-viser" target="_blank">Study-Viser GitHub</a>
 
 <hr>
 
