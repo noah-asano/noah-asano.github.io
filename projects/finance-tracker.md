@@ -15,8 +15,6 @@ labels:
 summary: "A full-stack personal finance tracking application that allows users to securely manage income and expenses, visualize spending patterns, and gain actionable financial insights through interactive dashboards."
 ---
 
-<img class="img-fluid" src="../img/download.jpg">
-
 The Personal Finance Tracker is a full-stack web application I built to help users better understand and manage their finances by tracking income, expenses, and spending categories over time. The project was designed with an emphasis on usability, secure data handling, and real-world deployment.
 
 The application enables users to register, authenticate, and interact with their financial data through a clean, responsive interface backed by a robust RESTful backend.
