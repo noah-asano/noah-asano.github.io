@@ -15,7 +15,7 @@ labels:
 summary: "An AI-powered internal knowledge and project management system built for the Gemini Observatory, leveraging Model Context Protocol servers and LLM agents to unify and query technical data across multiple platforms."
 ---
 
-<img class="img-fluid" src="..img/51DBd7O6GEL.jpg">
+<img class="img-fluid" src="../img/51DBd7O6GEL.jpg">
 
 This project is a full-stack, AI-powered project knowledge manager developed during my Software Engineering Internship at **NOIRLab’s Gemini Observatory**. The goal was to reduce friction in how technical staff retrieve information across fragmented tools by providing a single, intelligent interface backed by LLM agents and a custom Model Context Protocol (MCP) server.
 
